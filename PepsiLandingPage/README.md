@@ -1,7 +1,8 @@
 # Pepsi Landding Page
- Pepsi Landding Page
-
+ Pepsi Landding Page, change background color when click in small can
+# Figma Designer
+ https://www.figma.com/file/T8xNQzeo00IHD2sN2LoAjU/Pepsi-Landing-Page?node-id=0%3A1
  # Images
- ![Image of Yaktocat](https://raw.githubusercontent.com/diegocosta-dev/WebDesign/master/PepsiLandingPage/images/GitImage/01.jpg?token=ALTBQJXKDR3IBA6HHI2C5GS7JKOW4)
- ![Image of Yaktocat](https://raw.githubusercontent.com/diegocosta-dev/WebDesign/master/PepsiLandingPage/images/GitImage/02.jpg?token=ALTBQJTIIXFYVSZ2STMQSP27JKOYI)
- ![Image of Yaktocat](https://raw.githubusercontent.com/diegocosta-dev/WebDesign/master/PepsiLandingPage/images/GitImage/03.jpg?token=ALTBQJVTUULFBFXKC2OO3FC7JKOZO)
+ ![Image of Yaktocat](https://i.ibb.co/3cfBrP4/01.jpg)
+ ![Image of Yaktocat](https://i.ibb.co/ZSsTZgq/02.jpg)
+ ![Image of Yaktocat](https://i.ibb.co/PMQ51CV/03.jpg)
